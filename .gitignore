@@ -1,0 +1,57 @@
+# Android/Gradle
+/.gradle/
+/build/
+/**/build/
+.local.properties
+/local.properties
+/.idea/
+/captures/
+/.externalNativeBuild/
+/.cxx/
+/app/debug/
+/app/release/
+
+# Keystore & signing
+**/*.keystore
+**/*.jks
+**/keystore.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kotlin/JetBrains
+*.iml
+.gradle/
+/.kotlinc/
+
+# Logs
+*.log
+
+# Android/Gradle
+/.gradle/
+/build/
+/**/build/
+.local.properties
+/local.properties
+/.idea/
+/captures/
+/.externalNativeBuild/
+/.cxx/
+
+# Keystore & signing
+**/*.keystore
+**/*.jks
+**/keystore.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kotlin/JetBrains
+*.iml
+.gradle/
+/.kotlinc/
+
+# Logs
+*.log
